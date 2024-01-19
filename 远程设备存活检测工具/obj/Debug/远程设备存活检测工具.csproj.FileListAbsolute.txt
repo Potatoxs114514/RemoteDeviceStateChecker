@@ -1,0 +1,11 @@
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\bin\Debug\远程设备存活检测工具.exe.config
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\bin\Debug\远程设备存活检测工具.exe
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\bin\Debug\远程设备存活检测工具.pdb
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.csproj.AssemblyReference.cache
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.csproj.SuggestedBindingRedirects.cache
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.Form1.resources
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.Properties.Resources.resources
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.csproj.GenerateResource.cache
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.csproj.CoreCompileInputs.cache
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.exe
+C:\Users\Potatoxs\OneDrive\Project\远程设备存活检测工具\远程设备存活检测工具\obj\Debug\远程设备存活检测工具.pdb
